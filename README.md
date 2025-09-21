@@ -36,15 +36,15 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 
 ---
 
-- [ ]  [TryHackMe | Welcome](https://tryhackme.com/room/hello)
-- [ ]  [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
-- [ ]  [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-- [ ]  [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
-- [ ]  [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-- [ ]  [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-- [ ]  [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
-- [ ]  [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
-- [ ]  [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) 
+- [X]  [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [X]  [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [X]  [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [X]  [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [X]  [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [X]  [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [X]  [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [ ]  [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting) (DOES NOT WORK)
+- [X]  [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) 
 
 ## Linux Fundamentals
 
