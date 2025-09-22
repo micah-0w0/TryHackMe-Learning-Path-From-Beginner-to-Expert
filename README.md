@@ -50,11 +50,11 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 
 ---
 
-- [ ]  [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-- [ ]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) 
-- [ ]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [ ]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-- [ ]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [ ]  [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux) DOES NOT WORK
+- [X]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) 
+- [X]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [X]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- [X]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Network Basics
 
