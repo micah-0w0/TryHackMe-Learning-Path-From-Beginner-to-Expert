@@ -61,7 +61,7 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 ---
 
 - [X]  [Introductory Networking](https://tryhackme.com/jr/introtonetworking)
-- [ ]  [NMAP](https://tryhackme.com/jr/furthernmap)
+- [X]  [NMAP](https://tryhackme.com/jr/furthernmap)
 - [ ]  [Network Services](https://tryhackme.com/jr/networkservices)
 - [ ]  [Network Service 2](https://tryhackme.com/jr/networkservices2)
 
