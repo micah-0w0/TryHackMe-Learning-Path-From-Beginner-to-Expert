@@ -62,8 +62,8 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 
 - [X]  [Introductory Networking](https://tryhackme.com/jr/introtonetworking)
 - [X]  [NMAP](https://tryhackme.com/jr/furthernmap)
-- [ ]  [Network Services](https://tryhackme.com/jr/networkservices)
-- [ ]  [Network Service 2](https://tryhackme.com/jr/networkservices2)
+- [X]  [Network Services](https://tryhackme.com/jr/networkservices)
+- [X]  [Network Service 2](https://tryhackme.com/jr/networkservices2)
 
 ## Windows Exploitation Basics
 
