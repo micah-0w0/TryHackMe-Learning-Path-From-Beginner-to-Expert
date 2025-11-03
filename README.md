@@ -291,7 +291,7 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 - [ ]  [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
 - [ ]  [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
 - [ ]  [TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
-- [ ]  [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+- [X]  [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 - [ ]  [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
 
 ## PrivEsc
@@ -339,7 +339,7 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 ---
 
 - [ ]  [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
-- [ ]  [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+- [X]  [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 - [ ]  [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
 - [ ]  [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
