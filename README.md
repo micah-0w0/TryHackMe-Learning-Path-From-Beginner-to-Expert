@@ -161,12 +161,12 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 
 ---
 
-- [ ]  [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
-- [ ]  [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
-- [ ]  [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
-- [ ]  [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
-- [ ]  [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
-- [ ]  [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [X]  [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [X]  [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [X]  [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
+- [X]  [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [X]  [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [X]  [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 - [ ]  [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
